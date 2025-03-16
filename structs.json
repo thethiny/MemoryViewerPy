@@ -1,0 +1,26 @@
+{
+    "VR2ThreadPointers": {
+        "v61(v43)": [
+            "pointer",
+            "uint32"
+        ],
+        "v61+1(v40)": [
+            "pointer",
+            "uint32"
+        ],
+        "v62(v41)": [
+            "pointer",
+            "uint32"
+        ],
+        "v62+1(v74)": [
+            "pointer",
+            "uint32"
+        ],
+        "v63(v7)": "int32",
+        "v63Hi": "int32",
+        "v63+1(v44)": [
+            "pointer",
+            "uint32"
+        ]
+    }
+}
